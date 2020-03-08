@@ -1,0 +1,10 @@
+9	
+Gemini_Man				117.9		2
+Joker					122.8		2
+Zombieland				99.5		2
+Knives_Out				130.1		1
+Judy					118.3		0
+Downton_Abbey			123.8		0
+It						170.0		2
+Black_and_Blue			108.4		1
+Terminator_Dark_Fate	134.9		1

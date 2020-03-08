@@ -1,0 +1,5 @@
+c:\users\inam baig\documents\visual studio 2013\Projects\MyBestFriends\MyBestFriends\bin\Debug\MyBestFriends.exe.config
+c:\users\inam baig\documents\visual studio 2013\Projects\MyBestFriends\MyBestFriends\bin\Debug\MyBestFriends.exe
+c:\users\inam baig\documents\visual studio 2013\Projects\MyBestFriends\MyBestFriends\bin\Debug\MyBestFriends.pdb
+c:\users\inam baig\documents\visual studio 2013\Projects\MyBestFriends\MyBestFriends\obj\Debug\MyBestFriends.exe
+c:\users\inam baig\documents\visual studio 2013\Projects\MyBestFriends\MyBestFriends\obj\Debug\MyBestFriends.pdb

@@ -1,0 +1,6 @@
+c:\users\inam baig\documents\visual studio 2013\Projects\WordProcess\WordProcess\bin\Debug\WordProcess.exe.config
+c:\users\inam baig\documents\visual studio 2013\Projects\WordProcess\WordProcess\bin\Debug\WordProcess.exe
+c:\users\inam baig\documents\visual studio 2013\Projects\WordProcess\WordProcess\bin\Debug\WordProcess.pdb
+c:\users\inam baig\documents\visual studio 2013\Projects\WordProcess\WordProcess\obj\Debug\WordProcess.csprojResolveAssemblyReference.cache
+c:\users\inam baig\documents\visual studio 2013\Projects\WordProcess\WordProcess\obj\Debug\WordProcess.exe
+c:\users\inam baig\documents\visual studio 2013\Projects\WordProcess\WordProcess\obj\Debug\WordProcess.pdb
